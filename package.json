@@ -1,12 +1,12 @@
 {
-  "name": "hackathon-starter",
+  "name": "La Rue",
   "version": "4.3.0",
-  "description": "A boilerplate for Node.js web applications",
+  "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/garritfra/laruev2.git"
   },
-  "author": "Sahat Yalkabov",
+  "author": "Garrit Franke",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
