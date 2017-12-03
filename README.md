@@ -1,3 +1,5 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/garritfra/laRuev2.svg?columns=all)](https://waffle.io/garritfra/laRuev2)
+[![Dependency Status](https://david-dm.org/sahat/hackathon-starter/status.svg?style=flat)](https://david-dm.org/garritfra/laRuev2) [![Build Status]
 
 
 
