@@ -1,6 +1,13 @@
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/garritfra/laRuev2.svg?columns=all)](https://waffle.io/garritfra/laRuev2)
 [![Dependency Status](https://david-dm.org/sahat/hackathon-starter/status.svg?style=flat)](https://david-dm.org/garritfra/laRuev2) [![Build Status]
 
+# Useful Links
+
+Calendar API: https://developers.google.com/google-apps/calendar/v3/reference/events/insert#examples
+
+Full Calendar: https://fullcalendar.io/
+
+Web Template: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_apartment_rental&stacked=h
 
 
 
